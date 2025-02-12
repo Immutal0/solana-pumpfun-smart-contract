@@ -1,10 +1,37 @@
-# Pump.fun-Smart-Contract
+# Pump.fun Smart Contract
 
-This is the Rust/Anchor smart contract for Pump.fun - Add virtual LP, remove LP, create Raydium Pool.
+This repository contains the **Rust/Anchor** smart contract for **Pump.fun**. The contract provides functionality to:
 
-Please use it and follow me on github.
-Here
-You can check the tx to Remove vitual LP and Create Raydium Pool in this smart contract.
-https://explorer.solana.com/tx/4L6MWmtV1ZsT8NFfbtu68ZYyYVbpvZ4iynJhPdZw8jESi28TxwojjTFs88Q5QRdNUb297aWfkKcoYP9Ya8npx8AV?cluster=devnet
+- Add virtual LP (Liquidity Pool)
+- Remove LP
+- Create Raydium Pools on the Solana blockchain.
 
-If you have some questions, ask @HarmoniTechDev in Telegram and nevo0825 in Discord
+You can utilize this contract for managing liquidity pools and interacting with Raydium through Solana’s decentralized finance (DeFi) ecosystem.
+
+---
+
+## 📌 Key Functions
+
+- **Add Virtual LP**: Add liquidity to virtual pools.
+- **Remove LP**: Remove liquidity from pools.
+- **Create Raydium Pool**: Create pools on Raydium for liquidity and token swaps.
+
+---
+
+## 🔗 Transaction Example
+
+You can review the transaction for removing virtual LP and creating a Raydium pool on the Solana explorer. 
+
+**Transaction Link (Devnet):**
+[View Transaction](https://explorer.solana.com/tx/4L6MWmtV1ZsT8NFfbtu68ZYyYVbpvZ4iynJhPdZw8jESi28TxwojjTFs88Q5QRdNUb297aWfkKcoYP9Ya8npx8AV?cluster=devnet)
+
+---
+
+## 📲 Support
+
+For any questions or clarifications, feel free to reach out to:
+
+- **Telegram**: @Immutal0
+- **Twitter**: @Immutal0
+
+---
