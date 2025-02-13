@@ -32,6 +32,6 @@ You can review the transaction for removing virtual LP and creating a Raydium po
 For any questions or clarifications, feel free to reach out to:
 
 - **Telegram**: @Immutal0
-- **Twitter**: @Immutal0
+- **Twitter**: @Immutal0_
 
 ---
